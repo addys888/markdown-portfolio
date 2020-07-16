@@ -1,3 +1,3 @@
-*header
-*imgae
-*link
+* Header
+* Imgae
+* Link
